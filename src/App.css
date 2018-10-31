@@ -7,7 +7,7 @@ body {
 }
 
 .wrapper {
-  background: linear-gradient(to right, #232526, #414345);
+  background: linear-gradient(to right, #134e5e, #71b280);
   height: 100vh;
   display: flex;
   justify-content: center;
