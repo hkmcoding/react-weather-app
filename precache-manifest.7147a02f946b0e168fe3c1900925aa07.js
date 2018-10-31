@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/react-weather-app/static/js/main.c1d286f6.chunk.js"
   },
   {
-    "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
-    "url": "/react-weather-app/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
-  },
-  {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/react-weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  {
+    "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
+    "url": "/react-weather-app/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
